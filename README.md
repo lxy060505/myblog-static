@@ -1,2 +1,3 @@
 # myblog-static
-博客静态资源存储库
+
+[![](https://data.jsdelivr.com/v1/package/gh/sizsss/myblog-static/badge)](https://www.jsdelivr.com/package/gh/sizsss/myblog-static)
